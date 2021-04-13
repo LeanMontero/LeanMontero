@@ -1,5 +1,5 @@
-<h1 align="center">Hola, soy Lean 👋</h1>
- <h2 align="center">Desarrollador Fullstack desde Buenos Aires, Argentina</h2>
+<h1 align="center">Hola, soy Lean 👋 <br> 
+ Desarrollador Fullstack desde Buenos Aires, Argentina
  <h4>🎓 Análisis de Sistemas</h4>
  <h4>🔜 Ingeniería en Sistemas Informáticos en <a href="https://uai.edu.ar/" target="_blank">UAI</a></h4>
  <h4>💻 Actualmente trabajo en <a href="https://www.terminalzarate.com.ar" target="_black">Terminal Zárate</a></h4>
